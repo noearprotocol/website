@@ -1,1 +1,1 @@
-self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{},\"appUsingSizeAdjust\":false,\"pagesUsingSizeAdjust\":false}"
+self.__NEXT_FONT_MANIFEST="{\"pages\":{},\"app\":{\"/Users/ruisantiago/Documents/noear-meme/website/src/app/layout\":[\"static/media/4d7916323047ca0d-s.p.woff\"]},\"appUsingSizeAdjust\":true,\"pagesUsingSizeAdjust\":false}"
